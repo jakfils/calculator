@@ -5,7 +5,7 @@ let expression = "";
 let res = 0;
 const resultElt = document.getElementById("resultElt");
 
-/* button clear*/
+/* button clear */
 buttonClear.addEventListener("click", (e) => {
   resultElt.textContent = "0";
   expression = 0;
