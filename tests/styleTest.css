@@ -1,0 +1,10 @@
+.parent {
+    width: 200px;
+    border:2px dashed yellow;
+  }
+  .box {
+    width: 100%;
+    border: 2px solid hotpink;
+    padding: 20px;
+    background-color: red;
+  }
