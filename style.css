@@ -89,6 +89,7 @@ padding-left: 5px;
 }
 #resultElt {
 overflow: hidden ;
+direction: ltr;
 }
 
 #buttons {
