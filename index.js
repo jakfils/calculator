@@ -8,7 +8,7 @@ const resultElt = document.getElementById("resultElt");
 /* button clear */
 buttonClear.addEventListener("click", (e) => {
   resultElt.textContent = "0";
-  expression = 0;
+  expression = "";
 });
 
 /*Operations*/
